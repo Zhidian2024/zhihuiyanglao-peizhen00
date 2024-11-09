@@ -24,7 +24,7 @@
 ![extending-a-theme](/07.png)
 ![extending-a-theme](/08.png)
 ![extending-a-theme](/09.png)
-![extending-a-theme](/lannxi.jpg)
+![extending-a-theme](/lanxi.jpg)
 
 
 
